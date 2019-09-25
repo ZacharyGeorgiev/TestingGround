@@ -1,0 +1,29 @@
+[
+    {
+        "Id": 516,
+        "Name": "test2a",
+        "ClientId": 57,
+        "ClientName": "Phasefour",
+        "LoiteringDelaySec": 60,
+        "IsWork": true,
+        "ShouldSwitchToPrivate": true,
+        "Coordinates": [
+            {
+                "Latitude": 51.4496078,
+                "Longitude": 5.454626
+            },
+            {
+                "Latitude": 51.4466248,
+                "Longitude": 5.45730829
+            },
+            {
+                "Latitude": 51.44887,
+                "Longitude": 5.46106339
+            },
+            {
+                "Latitude": 51.4513321,
+                "Longitude": 5.45835972
+            }
+        ]
+    }
+]
